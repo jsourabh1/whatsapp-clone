@@ -1,0 +1,27 @@
+.sidebar_chat {
+    flex: 1;
+
+    cursor: pointer;
+    padding :20px;
+    border: 1px solid white;
+    padding: 10px;
+
+
+
+
+
+}
+.sidebar_chat:hover{
+    background-color: whitesmoke;
+}
+.sidebar_chat>h2{
+
+
+    margin-top: -50px;
+    margin-left: 50px;
+}.sidebar_chat>p{
+
+
+    margin-top: -20px;
+    margin-left: 50px;
+}
